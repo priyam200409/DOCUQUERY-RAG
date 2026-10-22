@@ -5,7 +5,7 @@ DocuQuery is an end-to-end conversational Retrieval-Augmented Generation (RAG) c
 DEPLOYED LINK - https://docuquery-rag-assistant.streamlit.app/
 
 ✨ Key Features
-Multi-Document Knowledge Base: Upload multiple PDFs and maintain a persistent local vector database.
+Multi-Document Knowledge Base: Upload multiple PDFs and maintain a persistent local vector database
 
 Conversational Memory: Utilizes a history-aware retriever to understand context and pronouns across multi-turn conversations.
 
