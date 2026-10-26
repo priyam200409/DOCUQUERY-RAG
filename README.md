@@ -7,7 +7,7 @@ DEPLOYED LINK - https://docuquery-rag-assistant.streamlit.app/
 ✨ Key Features
 Multi-Document Knowledge Base: Upload multiple PDFs and maintain a persistent local vector database
 
-Conversational Memory: Utilizes a history-aware retriever to understand context and pronouns across multi-turn conversations.
+Conversational Memory: Utilizes a history-aware retriever to understand context and pronouns across multi-turn conversations
 
 Targeted Retrieval: Filter the knowledge base to query specific documents using SQLite metadata injection.
 
