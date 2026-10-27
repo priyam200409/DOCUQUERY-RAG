@@ -1,6 +1,6 @@
 ﻿🤖 DocuQuery: Multi-Document RAG Assistant
 
-DocuQuery is an end-to-end conversational Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, and ChromaDB. It processes PDFs using local HuggingFace embeddings and leverages Google Gemini for grounded, multi-turn QA. Features include persistent session memory, SQLite metadata tracking, document filtering, and precise source citations.
+DocuQuery is an end-to-end conversational Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LangChain, and ChromaDB. It processes PDFs using local HuggingFace embeddings and leverages Google Gemini for grounded, multi-turn QA. Features include persistent session memory, SQLite metadata tracking, document filtering, and precise source citations
 
 DEPLOYED LINK - https://docuquery-rag-assistant.streamlit.app/
 
