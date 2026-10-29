@@ -9,7 +9,7 @@ Multi-Document Knowledge Base: Upload multiple PDFs and maintain a persistent lo
 
 Conversational Memory: Utilizes a history-aware retriever to understand context and pronouns across multi-turn conversations.
 
-Targeted Retrieval: Filter the knowledge base to query specific documents using SQLite metadata injection
+Targeted Retrieval: Filter the knowledge base to query specific documents using SQLite metadata injection.
 
 Source Citations: Every generated response includes exact page numbers and filenames to eliminate silent hallucinations.
 
