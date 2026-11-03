@@ -11,7 +11,7 @@ Conversational Memory: Utilizes a history-aware retriever to understand context 
 
 Targeted Retrieval: Filter the knowledge base to query specific documents using SQLite metadata injection.
 
-Source Citations: Every generated response includes exact page numbers and filenames to eliminate silent hallucinations
+Source Citations: Every generated response includes exact page numbers and filenames to eliminate silent hallucinations.
 
 Robust Fallback Architecture: Automatically cycles through active Google Gemini models to bypass regional or API-version rate limits.
 
